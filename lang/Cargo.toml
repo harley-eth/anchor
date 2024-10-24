@@ -56,5 +56,5 @@ base64 = "0.21"
 bincode = "1"
 borsh = "0.10.3"
 bytemuck = "1"
-solana-program = { git = "https://github.com/harley-eth/solana-sdk", branch = "master" }
+solana-program = { git = "https://github.com/20xharley/solana-program", branch = "master" }
 thiserror = "1"
