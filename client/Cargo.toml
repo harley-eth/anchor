@@ -21,7 +21,7 @@ anyhow = "1"
 futures = "0.3"
 regex = "1"
 serde = { version = "1", features = ["derive"] }
-solana-account-decoder = { git = "https://github.com/solana-labs/solana", branch = "master" }
+solana-account-decoder = { git = "https://github.com/anza-xyz/agave", branch = "master" }
 solana-client = "2.0.14"
 solana-sdk = "2.0.14"
 thiserror = "1"
