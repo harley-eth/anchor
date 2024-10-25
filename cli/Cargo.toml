@@ -40,7 +40,7 @@ solana-client = "2"
 solana-cli-config = "2"
 solana-faucet = "2"
 solana-program = { git = "https://github.com/20xharley/solana-program", branch = "master" }
-solana-sdk = { git = "https://github.com/harley-eth/solana-sdk", branch = "master" }
+solana-sdk = { git = "https://github.com/20xharley/solana-program", branch = "master" }
 # Pin solang-parser because it may break in a backwards incompatible way in minor versions
 solang-parser = "=0.3.3"
 syn = { version = "1.0.60", features = ["full", "extra-traits"] }
